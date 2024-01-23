@@ -20,6 +20,7 @@ import Monash from './assets/Monash.png';
 import EWD1 from './assets/EWD1.png';
 import EWD2 from './assets/EWD2.png';
 
+
 import Email from './assets/email.svg';
 import GitHub from './assets/github.svg';
 import LinkedIn from './assets/linkedin.svg';
