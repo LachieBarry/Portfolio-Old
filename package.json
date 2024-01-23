@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lachiebarry.github.com/LachieBarry/Portfolio",
+  "homepage": "https://lachiebarry.github.io/LachieBarry/Portfolio",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
