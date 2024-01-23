@@ -96,7 +96,7 @@ const Link = ({children, size, target}: Props) => {
 
     const selectLink = (event: PointerEvent) => {
 
-      event.target.classList.add("link-selected");
+      event.target?.classList.add("link-selected");
 
     }
 
